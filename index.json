@@ -1,0 +1,11 @@
+{
+  "org": "BurntSushi",
+  "repo": "same-file",
+  "versions": [
+    {
+      "commit": "5799cd323b8eefd17a089c950dac113f66c89c9e",
+      "tag": "1.0.6",
+      "parsed_at": "2026-11-22T11:25:52.057001+00:00"
+    }
+  ]
+}
