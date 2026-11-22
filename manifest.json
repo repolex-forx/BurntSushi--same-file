@@ -38,7 +38,9 @@
           "githubUrl": "https://github.com/GuillaumeGomez/doc-comment",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/5799cd323b8eefd17a089c950dac113f66c89c9e/chunk-001.nq.gz",
+      "dep": "dep/5799cd323b8eefd17a089c950dac113f66c89c9e.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
